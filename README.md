@@ -1,7 +1,8 @@
 # Metabolic-Sensitivity-in-Armases-cinereum
 Metabolic Sensitivity in Squareback Marsh Crabs (Armases cinereum)  An Analysis of Two Independent Marsh Crab Populations From  Tallahassee and Palm Beach Florida by Using the Wilcoxon Mann-Whitney Test
 
-This was a biostatistics research project that I worked on as an undergraudate.
+This was a biostatistics research project that I worked on as an undergraudate.  The purpose of this project was to explore the effect of temperature rise in the ocean on the metabolism of squareback marsh crabs.
+<br>
 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Armases_cinereum_P1010753a.jpg/330px-Armases_cinereum_P1010753a.jpg"></img>
 <br>
